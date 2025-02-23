@@ -251,6 +251,7 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    
     default:
       break;
   }
